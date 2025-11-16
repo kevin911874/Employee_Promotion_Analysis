@@ -309,17 +309,6 @@ docker-compose up -d
 **Created by**: Kevin Mayani
 **Contact**: kevinmayani89@gmail.com
 
-## 📄 License
-
-This project is for educational and portfolio purposes.
-
-## 🙏 Acknowledgments
-
-- Bandung Institute of Technology, School of Business and Management
-- Rakamin Data Science Bootcamp
-- References cited in the presentation deck
-
----
 
 **Goals Achieved:**
 ✅ Increase promotion rate up to 25%  
@@ -328,4 +317,5 @@ This project is for educational and portfolio purposes.
 ✅ Deliver actionable recommendations  
 
 For questions or support, please open an issue on GitHub.
+
 
