@@ -306,11 +306,8 @@ docker-compose up -d
 
 ## 👥 Credits
 
-**Created by**: Erlando Febrian  
-**Contact**: erlandoregita99@gmail.com  
-**LinkedIn**: [linkedin.com/in/erlandoregita](https://linkedin.com/in/erlandoregita/)  
-**GitHub**: [github.com/erlndofebri](https://github.com/erlndofebri)  
-**Portfolio**: [brian-insights.site](https://brian-insights.site/)
+**Created by**: Kevin Mayani
+**Contact**: kevinmayani89@gmail.com
 
 ## 📄 License
 
@@ -331,3 +328,4 @@ This project is for educational and portfolio purposes.
 ✅ Deliver actionable recommendations  
 
 For questions or support, please open an issue on GitHub.
+
